@@ -1,0 +1,6 @@
+Launching Chrome Browser
+[9199.96, 399.96, 2399.97]
+Exp_Subtotal-->11999.89
+[9199.96, 399.96, 2399.97]
+[11999.89, 1559.99, 13559.88]
+SubTotal is matched
